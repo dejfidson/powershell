@@ -1,1 +1,1 @@
-Get-Service
+Get-Service | Format-Table
